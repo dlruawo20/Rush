@@ -63,7 +63,3 @@ void rush(int row, int col)
 		i++;
 	}
 }
-
-/*
- * this is just a comment.
- */
